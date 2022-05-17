@@ -1,5 +1,3 @@
-
-
 ## Hello, I'm Izaquiel C. Silva, Developer and passionate about technology!👋
 <div align="center">
   <a href="https://github.com/Izaqui">
